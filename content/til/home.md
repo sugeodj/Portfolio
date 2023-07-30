@@ -177,7 +177,7 @@ p {
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<strong>July 30th, 2023</strong><a href='til/pages/29-07-23'>tba</a> ~ tba
+						<strong>July 30th, 2023</strong><a href='til/pages/30-07-23'>Typescript ES5 Function</a> ~ You ask a small girl,"How old are you?" She always says, "x years old", where x is a random number between 0 and 9.
 					</span>
 					<div class="t-square"></div>
 				</div>
